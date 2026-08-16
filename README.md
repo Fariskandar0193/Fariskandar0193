@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-3.87-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/TESP-MARA_Scholar-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,..." />
+  <img src="https://img.shields.io/badge/TESP-MARA_Scholar-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MUET-Band_4.5-FF6B6B?style=for-the-badge" />
 </p>
 
@@ -28,15 +28,6 @@
 | **Developer Tools** | Git, Visual Studio 2019/2022, VS Code IDE |
 | **AI & Productivity** | Gemini, DeepSeek, ChatGPT, Claude |
 | **Core Concepts** | Computer Graphics, UI/UX, Human-Computer Interaction, Spatial Design, Software Engineering |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
 
 ---
 
@@ -72,6 +63,36 @@
 
 ---
 
+#### 🌐 3D Portfolio Website
+> *Developer* · **React Three Fiber · Three.js · Vite · Vercel**
+
+- Interactive 3D product landing page for AR smart glasses concept
+- Procedurally modelled glasses with auto‑rotation and scroll‑driven animations
+- Theme toggle (light/dark) with glass‑morphism UI
+- **[View Repository](https://github.com/Fariskandar0193/AA_Final_Exam_MWP)** · **[Live Demo](https://aa-final-exam-mwp.vercel.app/)**
+
+---
+
+#### 📱 UMPSA x Huawei AppGallery Mobile App Competition
+> *Participant* · **Figma · JSX · Kotlin · Android IDE**
+
+- Designed UI/UX interactive Figma prototypes aligned with UN SDGs via gamification
+- Configured Huawei Mobile Services (HMS) environment
+- Integrated mobile application logic within Android IDE
+- **[View Figma Prototype](https://www.figma.com/design/9DQALQq6mhOeCZBzFPkU47/CoverUp-?node-id=0-1&p=f&t=7mC345koOkcED1D6-0)**
+
+---
+
+#### 🌿 EcoSphere — SDG 17 Figma Prototyping
+> *UI/UX Designer* · **Figma**
+
+- Interactive Figma prototype for sustainable development gamification
+- Designed to promote UN Sustainable Development Goals (SDG 17)
+- Focused on user engagement and educational gamification
+- **[View Figma Prototype](https://www.figma.com/design/qtZfRc1qxK0A4WxcQmyGWn/FARIS-ISKANDAR-BIN-ZAMANI-A23CS0078-s-team-library?node-id=0-1&t=qPsSb5AkT4foPxsu-0)**
+
+---
+
 ### 🏆 Achievements
 
 | Achievement | Details |
@@ -98,12 +119,6 @@
   <a href="https://instagram.com/fariskandar1234">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariskandar0193&show_icons=true&locale=en&layout=compact&theme=dark" alt="fariskandar0193" />
 </p>
 
 ---
