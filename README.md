@@ -69,7 +69,7 @@
 - Interactive 3D product landing page for AR smart glasses concept
 - Procedurally modelled glasses with auto‑rotation and scroll‑driven animations
 - Theme toggle (light/dark) with glass‑morphism UI
-- **[View Repository](https://github.com/Fariskandar0193/AA_Final_Exam_MWP)** · **[Live Demo](https://aa-final-exam-mwp.vercel.app/)**
+- **[View Repository](https://github.com/Fariskandar0193/3d_portfolio)** · **[Live Demo](https://aa-final-exam-mwp.vercel.app/)**
 
 ---
 
